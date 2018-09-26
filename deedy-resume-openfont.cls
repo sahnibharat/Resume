@@ -18,10 +18,10 @@
 
 % Color definitions
 \usepackage[usenames,dvipsnames]{xcolor} 
-\definecolor{date}{HTML}{666666} 
-\definecolor{primary}{HTML}{2b2b2b} 
-\definecolor{headings}{HTML}{6A6A6A}
-\definecolor{subheadings}{HTML}{333333}
+\definecolor{date}{HTML}{001133} 
+\definecolor{primary}{HTML}{00091a} 
+\definecolor{headings}{HTML}{004d00}
+\definecolor{subheadings}{HTML}{003300}
 
 % Set main fonts
 \usepackage{fontspec}
